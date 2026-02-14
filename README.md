@@ -6,10 +6,10 @@ I am a student currently focused on building robust web applications. My primary
 ---
 
 ### Technical Focus
-* **Frontend:** <img src="https://simpleicons.org/icons/react.svg" width="16" height="16" /> React, <img src="https://simpleicons.org/icons/nextdotjs.svg" width="16" height="16" /> Next.js, <img src="https://simpleicons.org/icons/typescript.svg" width="16" height="16" /> TypeScript
-* **Backend:** <img src="https://simpleicons.org/icons/nodedotjs.svg" width="16" height="16" /> Node.js, <img src="https://simpleicons.org/icons/express.svg" width="16" height="16" /> Express.js
-* **Database:** <img src="https://simpleicons.org/icons/postgresql.svg" width="16" height="16" /> PostgreSQL
-* **Security & Auth:** <img src="https://simpleicons.org/icons/authjs.svg" width="16" height="16" /> Auth.js (NextAuth), <img src="https://simpleicons.org/icons/jsonwebtokens.svg" width="16" height="16" /> JWT (JSON Web Tokens)
+* **Frontend:** <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white" height="20"> <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" height="20"> <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=white" height="20">
+* **Backend:** <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs&logoColor=white" height="20"> <img src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=white" height="20">
+* **Database:** <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white" height="20">
+* **Security & Auth:** <img src="https://img.shields.io/badge/-Auth.js-black?style=flat-square&logo=nextdotjs&logoColor=white" height="20"> <img src="https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white" height="20">
 
 ---
 
