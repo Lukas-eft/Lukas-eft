@@ -1,7 +1,7 @@
 # Lukas Eifertinger
 
 ### Student & Aspiring Fullstack Developer
-I am a student currently focused on building robust web applications. My primary goal is to master modern web technologies with a focus on security and scalability.
+I am a student currently focused on building robust web applications. My current primary goal is to master modern web technologies with a focus on security and scalability.
 
 ---
 
@@ -14,9 +14,9 @@ I am a student currently focused on building robust web applications. My primary
 ---
 
 ### Current Learning Path
-* **Deep Dive:** Advanced TypeScript and React patterns.
-* **Infrastructure:** Scaling Express.js backends and optimizing PostgreSQL.
-* **Security:** Implementing secure authentication flows with Auth.js and JWT.
+* **Deep Dive:** TypeScript and React.
+* **Infrastructure:** Express.js and PostgreSQL.
+* **Security:**Auth.js and JWT.
 
 ---
 
