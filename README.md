@@ -20,10 +20,6 @@ I am a student currently focused on building robust web applications. My primary
 
 ---
 
-### Project Statistics
-![Lukas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lukas-eft&show_icons=false&theme=transparent&hide_border=true&title_color=0366d6&text_color=586069)
-
----
 
 ### Contact & Copyright
 * **GitHub:** [github.com/Lukas-eft](https://github.com/Lukas-eft)
