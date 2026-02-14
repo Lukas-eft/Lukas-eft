@@ -16,7 +16,7 @@ I am a student currently focused on building robust web applications. My current
 ### Current Learning Path
 * **Deep Dive:** TypeScript and React.
 * **Infrastructure:** Express.js and PostgreSQL.
-* **Security:**Auth.js and JWT.
+* **Security:** Auth.js and JWT.
 
 ---
 
