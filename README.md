@@ -5,10 +5,20 @@ I am a student building web applications, desktop utilities, and interactive too
 
 ---
 
-### Featured Projects
-* **[MouseSkip](https://github.com/Lukas-eft/MouseSkip)** — Lightweight Windows Raw Input (`WM_INPUT`) mouse skip, polling dropout, and sensor spinout monitor built with Rust and WebView2.
-* **[LibreGraph](https://github.com/Lukas-eft/LibreGraph)** — Interactive 2D and 3D graphing calculator built with Python, SymPy, and NumPy.
-* **[FinanceTracker](https://github.com/Lukas-eft/FinanceTracker)** — TypeScript web application for tracking personal finances.
+### GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lukas-eft&bg_color=0d1117&color=c9d1d9&line=34d399&point=f4f4f5&area=true&area_color=34d399&hide_border=true" alt="Lukas-eft Contribution Activity Graph" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lukas-eft&show_icons=true&bg_color=0d1117&title_color=f4f4f5&text_color=a1a1aa&icon_color=34d399&hide_border=true" alt="Lukas-eft GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas-eft&layout=compact&bg_color=0d1117&title_color=f4f4f5&text_color=a1a1aa&hide_border=true" alt="Lukas-eft Top Languages" height="175" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Lukas-eft&background=0d1117&ring=34d399&fire=34d399&currStreakLabel=f4f4f5&sideLabels=a1a1aa&currStreakNum=f4f4f5&sideNums=f4f4f5&dates=71717a&stroke=1f2937&hide_border=true" alt="Lukas-eft GitHub Streak" />
+</div>
 
 ---
 
